@@ -2,6 +2,12 @@
 
 download somewhere on your computer and double click the "Open-TheUnderworldWeb.html" file
 
+# OR
+
+go to this link >> learnmathfast.cf
+
+# OR
+
 ----=== If you are unable to download the file from here, then follow instructions below ===----
 
                 1. Make a new chrome bookmark
