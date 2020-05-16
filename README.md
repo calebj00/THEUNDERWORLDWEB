@@ -1,8 +1,5 @@
 # THEUNDERWORLDWEB
 
---=== SITE IS DOWN (BUGS BEING FIXED) ===--
-
-
 2 options, its the same website they just access it different
  
 download somewhere on your computer and double click the "Open-TheUnderworldWeb.html" file                                       
